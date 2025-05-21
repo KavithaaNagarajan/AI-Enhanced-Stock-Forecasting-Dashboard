@@ -135,9 +135,9 @@ Trend: Uptrend.
 
 
 # AI Prediction:
-Company: Reliance Industries Limited
+Company: Infoys Limited
 Sentiment: Positive (e.g., polarity 0.3)
-Summary: “Reliance reports strong Q1 2025 growth in energy and retail.”
+Summary: “Infosys reports strong Q1 2025 growth in energy and retail.”
 Trend Bias: Likely Positive
 ![image](https://github.com/user-attachments/assets/269f6b57-455d-4e47-9dd7-48908157dbbd)
 
